@@ -1,0 +1,39 @@
+
+
+.count-title{
+  font-size: xxx-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 1px solid hsl(0, 0%, 0%, 70%);
+  border-radius: 33px;
+  text-align: center;
+  color: hsl(0, 0%, 34%);
+  box-shadow: 5px 5px 5px hsl(178, 100%, 77%);
+  background-color: hsl(0, 0%, 67%);
+}
+
+.counter{
+  font-size: 12rem;
+  text-align: center;
+  color: rgb(162, 162, 162);
+}
+
+.count-buttons{
+  text-align: center;
+  padding: 10px;
+}
+
+.increment-button, .decrement-button, .count-button{
+  font-size: 1.75rem;
+  margin: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: hsla(180, 100%, 50%, 0.917);
+  background-color: hsl(0, 0%, 34%);
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  right: 45%;
+  font-size: 0.8rem;
+  color:hsla(180, 100%, 50%, 0.917);
+}
